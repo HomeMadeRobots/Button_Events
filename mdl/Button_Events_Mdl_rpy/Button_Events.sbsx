@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">PSWA_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
@@ -25,10 +25,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.20.2020::9:23:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.20.2020::9:23:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.22.2020::8:11:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.22.2020::8:11:17</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">1.20.2020::9:23:42</weakCGTime>
+			<weakCGTime type="a">4.22.2020::8:11:17</weakCGTime>
 			<strongCGTime type="a">1.17.2020::11:52:30</strongCGTime>
 			<_defaultComposite type="s">GUID a9bb876f-450b-4517-a646-4960e28bcee2</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -175,7 +175,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Diagrams</_hsubsystem>
 							<_hname type="a">PSWA_Diagram</_hname>
 							<_hid type="a">GUID c7b74034-874b-4fb8-b488-dec424934ba4</_hid>
@@ -184,8 +184,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.17.2020::12:4:15</_modifiedTime>
-			<_lastModifiedTime type="a">1.17.2020::12:4:15</_lastModifiedTime>
+			<_modifiedTime type="a">4.22.2020::8:11:31</_modifiedTime>
+			<_lastModifiedTime type="a">4.22.2020::8:11:31</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -349,7 +349,7 @@
 			<m_pParent type="s">GUID f07c3438-c653-4f36-adbd-9dfca81f1b5e</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ev_Button_Pressed</m_str>
+					<m_str type="a">Button_Pressed</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -365,7 +365,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4170</m_drawBehavior>
-			<m_transform type="a">0.157696 0 0 0.101604 167.685 3.5722 </m_transform>
+			<m_transform type="a">0.18508 0 0 0.101604 167.63 3.5722 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -463,7 +463,7 @@
 			<m_pParent type="s">GUID f07c3438-c653-4f36-adbd-9dfca81f1b5e</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">ev_Button_Released</m_str>
+					<m_str type="a">Button_Released</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -479,7 +479,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4170</m_drawBehavior>
-			<m_transform type="a">0.157696 0 0 0.101604 167.685 150.572 </m_transform>
+			<m_transform type="a">0.18508 0 0 0.101604 167.63 150.572 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -550,14 +550,14 @@
 		<IClass type="e">
 			<_id type="a">GUID 1a4ade60-f28a-4f22-96f9-6c23fae205cc</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ev_Button_Pressed</_name>
+			<_name type="a">Button_Pressed</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Event_Interface</_hname>
 							<_hid type="a">GUID a606fb06-732a-41c1-b270-a594f4ed47dd</_hid>
@@ -565,7 +565,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.17.2020::11:53:22</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.22.2020::8:10:39</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -573,12 +573,12 @@
 				</IHandle>
 			</_theMainDiagram>
 			<_description type="p"><IDescription type="e">
-				<_text type="a">This event is sent when a switch is pressed.</_text>
+				<_text type="a">This event is sent when a push button is pressed.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">1.17.2020::11:53:22</_modifiedTime>
-			<weakCGTime type="a">1.17.2020::11:53:22</weakCGTime>
-			<strongCGTime type="a">1.17.2020::11:52:11</strongCGTime>
+			<_modifiedTime type="a">4.22.2020::8:10:39</_modifiedTime>
+			<weakCGTime type="a">4.22.2020::8:10:39</weakCGTime>
+			<strongCGTime type="a">4.22.2020::8:10:24</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -588,14 +588,14 @@
 		<IClass type="e">
 			<_id type="a">GUID f6b867f4-3809-446c-b385-762b3351ece4</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">ev_Button_Released</_name>
+			<_name type="a">Button_Released</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Event_Interface</_hname>
 							<_hid type="a">GUID a606fb06-732a-41c1-b270-a594f4ed47dd</_hid>
@@ -603,7 +603,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.17.2020::11:53:16</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.22.2020::8:10:49</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -611,12 +611,12 @@
 				</IHandle>
 			</_theMainDiagram>
 			<_description type="p"><IDescription type="e">
-				<_text type="a">This event is sent when a switch is released.</_text>
+				<_text type="a">This event is sent when a push button is released.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">1.17.2020::11:53:16</_modifiedTime>
-			<weakCGTime type="a">1.17.2020::11:53:16</weakCGTime>
-			<strongCGTime type="a">1.17.2020::11:52:11</strongCGTime>
+			<_modifiedTime type="a">4.22.2020::8:10:49</_modifiedTime>
+			<weakCGTime type="a">4.22.2020::8:10:49</weakCGTime>
+			<strongCGTime type="a">4.22.2020::8:10:28</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
